@@ -1,11 +1,11 @@
 style: is-light
 items:
-  - title: Free
-    subtitle: No money involved
-    icon: fa-dollar-sign
+  - title: Privacy
+    subtitle: Your privacy is main and ultimate priority for us.
+    icon: fa-user-lock
   - title: Verified
-    subtitle: All the mentors are verified
+    subtitle: All the counsellors are professionally certified with prior counselling experience
     icon: fa-user-check
-  - title: हेप्नी
-    subtitle: नेपाली हो नि
+  - title: Global
+    subtitle: From Nepal to US and the rest, we are there for you
     icon: fa-globe-asia

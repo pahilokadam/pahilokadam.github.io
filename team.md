@@ -1,11 +1,9 @@
 ---
 title: Team
-subtitle: सबै आफ्नै हुन्
+subtitle: actually we are family
 layout: page
 show_sidebar: false
 permalink: /team/
 ---
 
-## Team
-
-For now its just me [Kshitij Raj Lohani](https://kshitijlohani.com/), if you want to get inolve let me know.
+TODO: include team member here
