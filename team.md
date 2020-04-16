@@ -1,9 +1,8 @@
 ---
 title: Team
 subtitle: actually we are family
-layout: page
+layout: team-category
 show_sidebar: false
+sort: sortnum
 permalink: /team/
 ---
-
-TODO: include team member here
