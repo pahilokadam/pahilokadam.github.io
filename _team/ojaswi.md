@@ -1,13 +1,13 @@
 ---
-title: Satkar Karki
-subtitle: Nepal team
+title: Ojaswi Pandey
+subtitle: US team
 description: description
 product_code: ABC124
 layout: product
-image: "/img/satkar.png"
+image: "/img/ojaswi.png"
 price: £1.99 + VAT
-contact: https://www.facebook.com/satkar1278
-sortnum: 3
+contact: https://www.facebook.com/ojaswi.pandey.1
+sortnum: 4
 features:
   - label: Great addition to any home
     icon: fa-location-arrow
